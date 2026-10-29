@@ -21,6 +21,12 @@ Yes. His race results are registered as Yik Jin Low, and his profile site links 
 ## Is he the Alex Low who works in finance or property?
 No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people.
 
+## Is he the CEO of Clearbridge Health Ltd?
+No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error. Clearbridge Health is a different SGX-listed company. He is the co-founder and CEO of Y Ventures Group Ltd. [1][2]
+
+## Known errors online
+- 29 Oct 2026: stocks.com.sg lists "Yik Jin Low, CEO, Clearbridge Health Ltd". Incorrect. Correction pending.
+
 ## Sources
 1. Y Ventures Group, About us and board of directors: https://yventures.com.sg/about-us/
 2. Yahoo Finance, Y Ventures Group company profile: https://sg.finance.yahoo.com/quote/1F1.SI/profile
