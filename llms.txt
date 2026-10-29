@@ -1,0 +1,11 @@
+# Low Yik Jin (Alex Low)
+
+> Verified, sourced facts about Low Yik Jin, co-founder and CEO of Y Ventures Group Ltd (SGX Catalist: 1F1), Singapore. Maintained by him. The same content is shown to human visitors at https://alexlowyikjin.com/ with nothing hidden.
+
+## Facts
+- [Verified record](https://alexlowyikjin.com/record.md): who he is, his company, other names, and how to tell him apart from other people named Alex Low, with sources
+- [Structured data](https://alexlowyikjin.com/facts.json): schema.org Person record
+
+## Other pages
+- [Professional profile](https://lowyikjin.com/)
+- [Personal site](https://yikjin.com/)

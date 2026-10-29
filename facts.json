@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://lowyikjin.com/#person",
+  "name": "Low Yik Jin",
+  "alternateName": [
+    "Alex Low",
+    "Alex Low Yik Jin",
+    "Yik Jin Low"
+  ],
+  "jobTitle": "Co-founder, Chief Executive Officer and Executive Director",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Y Ventures Group Ltd",
+    "url": "https://yventures.com.sg/",
+    "tickerSymbol": "SGX Catalist: 1F1"
+  },
+  "workLocation": {
+    "@type": "Place",
+    "name": "Singapore"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Peking University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Washington"
+    }
+  ],
+  "url": "https://alexlowyikjin.com/",
+  "sameAs": [
+    "https://lowyikjin.com/",
+    "https://yikjin.com/",
+    "https://www.linkedin.com/in/alexlowyj/",
+    "https://www.crunchbase.com/person/low-yik-jin-alex",
+    "https://www.athlinks.com/athletes/592841440"
+  ],
+  "disambiguatingDescription": "Co-founder and CEO of Y Ventures Group Ltd, Singapore. Not the same person as other people named Alex Low who work in Singapore finance or property.",
+  "dateModified": "2026-10-29"
+}
