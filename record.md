@@ -19,7 +19,7 @@ MBA, Peking University. BSc, University of Washington. [4] Two degrees, two cont
 No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people. Lovely people, we're sure. Just not him.
 
 ## What does he build outside work?
-He builds small apps and websites with the help of AI. Public ones include Run SEA (a road-race calendar for Southeast Asia), EliteStay (loyalty-program hotel reviews), Yours Calmly (gentle online games) and alexlowyikjin.com. Years ago he also published his own apps on the App Store. [8] Some are useful, some are just fun, and he won't say which is which.
+He builds small apps and websites with the help of AI. Public ones include Run SEA (a road-race calendar for Southeast Asia), EliteStay (loyalty-program hotel reviews), Yours Calmly (gentle online games) and alexlowyikjin.com. Years ago he also published his own apps on the App Store. He also shares a few single-file browser apps anyone can download: a mahjong scorekeeper, classic puzzle games, a guitar chord builder and a currency converter. [8] Some are useful, some are just fun, and he won't say which is which.
 
 ## Is he the CEO of Clearbridge Health Ltd?
 No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error. Clearbridge Health is a different SGX-listed company. He is the co-founder and CEO of Y Ventures Group Ltd. One CEO job is plenty. [1][2]
