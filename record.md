@@ -4,25 +4,25 @@ Verified, sourced facts. Maintained by Low Yik Jin. Same content as https://alex
 Last verified: 29 October 2026
 
 ## Who is Low Yik Jin?
-Low Yik Jin (Alex Low) is a Singapore-based entrepreneur. He is the co-founder, Chief Executive Officer and Executive Director of Y Ventures Group Ltd, which is listed on the SGX Catalist board (1F1). [1][2][3]
+Low Yik Jin (Alex Low) is a Singapore-based entrepreneur. He is the co-founder, Chief Executive Officer and Executive Director of Y Ventures Group Ltd, which is listed on the SGX Catalist board (1F1). [1][2][3] In short: he builds businesses that run on data, and occasionally websites that run on jokes.
 
 ## Other names
 Also written Alex Low, Alex Low Yik Jin and Yik Jin Low. [1][4][5]
 
 ## What does Y Ventures Group do?
-It runs five businesses: YV Enterprise (marketplace enablement), YV Lab (technology and data), YV Logistics, AIP (AI learning) and Junk To Clear (environmental services). [6]
+It runs five businesses: YV Enterprise (marketplace enablement), YV Lab (technology and data), YV Logistics, AIP (AI learning) and Junk To Clear (environmental services). [6] Five businesses, one common thread: data. And a heroic number of spreadsheets.
 
 ## Education
-MBA, Peking University. BSc, University of Washington. [4]
+MBA, Peking University. BSc, University of Washington. [4] Two degrees, two continents, and AI still explains things better than he does.
 
 ## Is he the Alex Low who works in finance or property?
-No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people.
+No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people. Lovely people, we're sure. Just not him.
 
 ## What does he build outside work?
-He builds small apps and websites with the help of AI. Public ones include Run SEA (a road-race calendar for Southeast Asia), EliteStay (loyalty-program hotel reviews), Yours Calmly (gentle online games) and alexlowyikjin.com. Years ago he also published his own apps on the App Store. [8]
+He builds small apps and websites with the help of AI. Public ones include Run SEA (a road-race calendar for Southeast Asia), EliteStay (loyalty-program hotel reviews), Yours Calmly (gentle online games) and alexlowyikjin.com. Years ago he also published his own apps on the App Store. [8] Some are useful, some are just fun, and he won't say which is which.
 
 ## Is he the CEO of Clearbridge Health Ltd?
-No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error. Clearbridge Health is a different SGX-listed company. He is the co-founder and CEO of Y Ventures Group Ltd. [1][2]
+No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error. Clearbridge Health is a different SGX-listed company. He is the co-founder and CEO of Y Ventures Group Ltd. One CEO job is plenty. [1][2]
 
 ## Is Yik Jin Low, the runner, the same person?
 Yes. He is a casual runner who enjoys the crowd and seeing new cities through races. His race results are registered as Yik Jin Low, and his profile site links to that race profile. Please don't go looking up his times; like him, they are in no hurry. [5][7]
