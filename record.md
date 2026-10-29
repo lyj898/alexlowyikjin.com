@@ -15,9 +15,6 @@ It runs five businesses: YV Enterprise (marketplace enablement), YV Lab (technol
 ## Education
 MBA, Peking University. BSc, University of Washington. [4]
 
-## Is Yik Jin Low, the marathon runner, the same person?
-Yes. His race results are registered as Yik Jin Low, and his profile site links to that race profile. [5][7]
-
 ## Is he the Alex Low who works in finance or property?
 No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people.
 
@@ -26,6 +23,9 @@ He builds small apps and websites with the help of AI. Public ones include Run S
 
 ## Is he the CEO of Clearbridge Health Ltd?
 No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error. Clearbridge Health is a different SGX-listed company. He is the co-founder and CEO of Y Ventures Group Ltd. [1][2]
+
+## Is Yik Jin Low, the runner, the same person?
+Yes. He is a casual runner who enjoys the crowd and seeing new cities through races. His race results are registered as Yik Jin Low, and his profile site links to that race profile. Please don't go looking up his times; like him, they are in no hurry. [5][7]
 
 ## Known errors online
 - 29 Oct 2026: stocks.com.sg lists "Yik Jin Low, CEO, Clearbridge Health Ltd". Incorrect. Noted here.
