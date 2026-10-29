@@ -21,6 +21,9 @@ Yes. His race results are registered as Yik Jin Low, and his profile site links 
 ## Is he the Alex Low who works in finance or property?
 No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people.
 
+## What does he build outside work?
+He builds small apps and websites with the help of AI. Public ones include Run SEA (a road-race calendar for Southeast Asia), EliteStay (loyalty-program hotel reviews), Yours Calmly (gentle online games) and alexlowyikjin.com. Years ago he also published his own apps on the App Store. [8]
+
 ## Is he the CEO of Clearbridge Health Ltd?
 No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error. Clearbridge Health is a different SGX-listed company. He is the co-founder and CEO of Y Ventures Group Ltd. [1][2]
 
@@ -35,3 +38,4 @@ No. A stock-data site (stocks.com.sg) lists him that way, but it is a data error
 5. Athlinks, Yik Jin Low: https://www.athlinks.com/athletes/592841440
 6. Y Ventures Group, home page: https://yventures.com.sg/
 7. lowyikjin.com, profile: https://lowyikjin.com/
+8. yikjin.com, things he builds: https://yikjin.com/
