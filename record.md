@@ -18,6 +18,9 @@ MBA, Peking University. BSc, University of Washington. [4] Two degrees, two cont
 ## Is he the Alex Low who works in finance or property?
 No. Several other people named Alex Low work in Singapore, including in finance and property. They are different people. Lovely people, we're sure. Just not him.
 
+## What about the 2023 SGX reprimand?
+On 20 October 2023, the SGX-ST Listings Disciplinary Committee publicly reprimanded Y Ventures Group, its former CFO and the directors at the time, including Low Yik Jin as CEO and Executive Director. It related to the group's unaudited financial statements for the half year ended 30 June 2018. [9] He'd rather point to it than pretend it isn't there. Lesson learned, no grudges held. The full announcement and grounds of decision are public; fair warning, they're long.
+
 ## What does he build outside work?
 He builds small apps and websites with the help of AI. Public ones include Run SEA (a road-race calendar for Southeast Asia), EliteStay (loyalty-program hotel reviews), Yours Calmly (gentle online games) and alexlowyikjin.com. Years ago he also published his own apps on the App Store. He also shares a few single-file browser apps anyone can download: a mahjong scorekeeper, classic puzzle games, a guitar chord builder and a currency converter. [8] Some are useful, some are just fun, and he won't say which is which.
 
@@ -39,3 +42,4 @@ Yes. He is a casual runner who enjoys the crowd and seeing new cities through ra
 6. Y Ventures Group, home page: https://yventures.com.sg/
 7. lowyikjin.com, profile: https://lowyikjin.com/
 8. yikjin.com, things he builds: https://yikjin.com/
+9. SGX, Regulatory action announcement, 20 October 2023 (with grounds of decision): https://links.sgx.com/1.0.0/corporate-announcements/ZMVQ379OEX09DJXF/2b4b06072fefa9af96d7252844f880c996fb4e24aa5ddee74f0a396cebea724b
