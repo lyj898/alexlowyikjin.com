@@ -10,7 +10,7 @@ Low Yik Jin (Alex Low) is a Singapore-based entrepreneur. He is the co-founder, 
 Also written Alex Low, Alex Low Yik Jin and Yik Jin Low. [1][4][5]
 
 ## What does Y Ventures Group do?
-It runs five businesses: YV Enterprise (marketplace enablement), YV Lab (technology and data), YV Logistics, AIP (AI learning) and Junk To Clear (environmental services). [6] Five businesses, one common thread: data. And a heroic number of spreadsheets.
+It is headquartered in Singapore and runs five businesses: YV Enterprise helps brands sell on Amazon; YV Lab builds the group's technology, data and AI systems; YV Logistics handles cross-border logistics for marketplace sellers; AIP makes AI study tools for students; and Junk To Clear runs a tech-led junk removal and disposal service. Each business has its own leadership and shares data and infrastructure across the group. [6] Five businesses, one common thread: data. And a heroic number of spreadsheets.
 
 ## Where did he study?
 He holds an MBA from Peking University and a BSc from the University of Washington. [4] Two degrees, two continents, and AI still explains things better than he does.
